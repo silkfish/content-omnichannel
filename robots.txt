@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://content-omnichannel.pages.dev/sitemap.xml
